@@ -1,8 +1,19 @@
-# Lasy (ang. forests)
+# Forests, trees and animals
+
+The program is a simulation of the creation of a world consisting of many unique forests, trees and animals. 
+The program user can modify the virtual world according to specific rules and view its current state.
+
+
+Some detailed information about the program in Polish can be found below.
+
+
+# Lasy, drzewa, zwierzęta 
 
 ## Wstęp
 
-Program jest symulacją świata. Na świecie rośnie wiele lasów. W każdym lesie jest wiele drzew. Na każdym drzewie może żyć wiele zwierząt. Każdy las, każde drzewo w danym lesie i każde zwierzę żyjące na danym drzewie mają unikalną nazwę. 
+Program jest symulacją tworzenia świata składającego się z wielu unikalnych lasów, drzew oraz zwierząt. 
+Użytkownik programu może modyfikować wirtualny świat według konkretnych zasad oraz oglądać go wypisując jego aktualny stan.
+
 
 ## Opis działania programu
 Po uruchomieniu programu na świecie nie ma żadnego lasu, żadnego drzewa ani żadnego zwierzęcia. Program czyta dane ze standardowego wejścia i wykonuje niżej opisane polecenia. 
